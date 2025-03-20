@@ -1,0 +1,4 @@
+flutter_launcher_icons:
+  android: "launcher_icon" # Nama ikon di Android
+  ios: true # Aktifkan untuk iOS
+  image_path: "assets/logo/raincast-logo.jpg" # Lokasi logo
